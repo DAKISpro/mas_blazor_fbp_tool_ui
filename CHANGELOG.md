@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.0](https://github.com/DAKISpro/mas_blazor_fbp_tool_ui/compare/v1.2.1...v1.3.0) (2025-09-11)
+
+
+### Features
+
+* allow changing number of lines in IIP content field ([296fd2b](https://github.com/DAKISpro/mas_blazor_fbp_tool_ui/commit/296fd2b9dd825cf6d6188ef904adb67cefb8c0e3))
+
 ## [1.2.1](https://github.com/DAKISpro/mas_blazor_fbp_tool_ui/compare/v1.2.0...v1.2.1) (2025-08-25)
 
 
